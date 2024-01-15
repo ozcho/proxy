@@ -1,4 +1,4 @@
-# openconnect + tinyproxy + microsocks
+# tinyproxy + microsocks
 
 This Docker image contains the [tinyproxy proxy server](https://tinyproxy.github.io/) for http/https connections (default on port 8888) and the [microsocks proxy](https://github.com/rofl0r/microsocks) for socks5 connections (default on port 8889) in a very small [alpine linux](https://www.alpinelinux.org/) image (around 20 MB).
 
